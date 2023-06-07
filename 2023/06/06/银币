@@ -5,10 +5,10 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="theme-color" content="#33474d">
-	<title>Hexo</title>
+	<title>Tecalion</title>
 	<link rel="stylesheet" href="/css/style.css" />
 	
-      <link rel="alternate" href="/atom.xml" title="Hexo" type="application/atom+xml">
+      <link rel="alternate" href="/atom.xml" title="Tecalion" type="application/atom+xml">
     
 <meta name="generator" content="Hexo 6.3.0"></head>
 
@@ -24,8 +24,8 @@
 				<a href="/atom.xml" class="header__link">RSS</a>
 			
 		</nav>
-		<h1 class="header__title"><a href="/">Hexo</a></h1>
-		<h2 class="header__subtitle"></h2>
+		<h1 class="header__title"><a href="/">Tecalion</a></h1>
+		<h2 class="header__subtitle">面目全非时认出我的灵魂</h2>
 	</header>
 
 	<main>
