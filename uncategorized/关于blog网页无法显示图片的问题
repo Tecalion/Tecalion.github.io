@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="theme-color" content="#33474d">
-	<title>Tecalion</title>
+	<title>关于网页无法显示图片的问题 | Tecalion</title>
 	<link rel="stylesheet" href="/css/style.css" />
 	
       <link rel="alternate" href="/atom.xml" title="Tecalion" type="application/atom+xml">
@@ -29,45 +29,35 @@
 	</header>
 
 	<main>
+		<article>
+	
+		<h1>关于网页无法显示图片的问题</h1>
+	
+	<div class="article__infos">
+		<span class="article__date">2023-06-11</span><br />
 		
+		
+			<span class="article__tags">
+			  	<a class="article__tag-none-link" href="/tags/program-hexo/" rel="tag">program-hexo</a>
+			</span>
+		
+	</div>
 
-<h1>#program</h1>
+	
 
+	
+		<p>原因是本地编辑.md文件直接插入图片会保存本地路径</p>
+<p>把图片粘贴到blog文件，再用文件内的路径就可以了</p>
+<p><figure class="figure"><img src="/images/%E5%9B%BE%E7%89%87%E6%98%BE%E7%A4%BA%E9%97%AE%E9%A2%98.png" alt="blog文件内路径"><figcaption class="figure__caption">blog文件内路径</figcaption></figure></p>
 
+	
 
-<ul class="archive">
-		<li class="archive__year archive__expendable archive__expendable_disabled">
-			<ul>
-			
-				
-					
-					
-						<li class="archive__entry"><a href="/uncategorized/Flutter%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE-Android-Studio%E8%AF%95%E8%BF%90%E8%A1%8C">Flutter安装配置+Android Studio试运行</a></li>
-					
+	
+		<span class="different-posts"><a href="/uncategorized/%E5%85%B3%E4%BA%8Eblog%E7%BD%91%E9%A1%B5%E6%97%A0%E6%B3%95%E6%98%BE%E7%A4%BA%E5%9B%BE%E7%89%87%E7%9A%84%E9%97%AE%E9%A2%98" onclick="window.history.go(-1); return false;">⬅️ Go back </a></span>
 
-				
-			
-				
-					
-					
+	
 
-				
-			
-				
-					
-					
-
-				
-			
-				
-					
-					
-
-				
-			
-			</ul>
-		</li>
-</ul>
+</article>
 
 	</main>
 
