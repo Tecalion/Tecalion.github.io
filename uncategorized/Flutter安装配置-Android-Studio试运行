@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="theme-color" content="#33474d">
-	<title>银币 | Tecalion</title>
+	<title>Flutter安装配置+Android Studio试运行 | Tecalion</title>
 	<link rel="stylesheet" href="/css/style.css" />
 	
       <link rel="alternate" href="/atom.xml" title="Tecalion" type="application/atom+xml">
@@ -31,14 +31,14 @@
 	<main>
 		<article>
 	
-		<h1>银币</h1>
+		<h1>Flutter安装配置+Android Studio试运行</h1>
 	
 	<div class="article__infos">
-		<span class="article__date">2023-06-07</span><br />
+		<span class="article__date">2023-06-08</span><br />
 		
 		
 			<span class="article__tags">
-			  	<a class="article__tag-none-link" href="/tags/mrfz/" rel="tag">mrfz</a>
+			  	<a class="article__tag-none-link" href="/tags/program/" rel="tag">program</a>
 			</span>
 		
 	</div>
@@ -46,14 +46,20 @@
 	
 
 	
-		<p>数年后，希格拉死于矿石病。她把所有财产留给清道夫，要求葬在荒原。清道夫亲手埋葬了她，将她的银币贴身携带。</p>
-<p>幸福可以用钱买到，那就是最好的时代。谎言留存到今天才被打破，清道夫想，假如希格拉活着，什么都还能忍受，可她已经不在，自己活着就成了荒诞。</p>
-<p>她往叙拉古首府移动，开车经过一片废弃城市，苍白而痛苦的灵魂徘徊在钢筋水泥里，被叙拉古晨星照耀。青灰色天空深处，月亮逐渐隐没，如同遥远的米瑞戴尔流逝在岁月中。</p>
+		<p>2023.6.8  23:57</p>
+<p>图片加载不出来啦，明天再搞</p>
+<p>校园网裂了，手机流量貌似下插件很慢</p>
+<p>有没有可能我搞hexo就相当于在学前端了呢</p>
+<p>自学很折磨，但很开心</p>
+<p>音乐播放器也还有问题</p>
+<p>2023.6.11 15:45</p>
+<p><figure class="figure"><img src="/images/Flutter.png" alt="Flutter安装配置"><figcaption class="figure__caption">Flutter安装配置</figcaption></figure></p>
+<p><figure class="figure"><img src="/images/AndroidStudio.png" alt="Android Studio试运行"><figcaption class="figure__caption">Android Studio试运行</figcaption></figure></p>
 
 	
 
 	
-		<span class="different-posts"><a href="/2023/06/07/%E9%93%B6%E5%B8%81/" onclick="window.history.go(-1); return false;">⬅️ Go back </a></span>
+		<span class="different-posts"><a href="/uncategorized/Flutter%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE-Android-Studio%E8%AF%95%E8%BF%90%E8%A1%8C" onclick="window.history.go(-1); return false;">⬅️ Go back </a></span>
 
 	
 
@@ -67,9 +73,9 @@
 	      <div class="footer__element">
 	<p><br /></p>
 </div>
-无人处窥见我
-
-面目全非时认出我的灵魂
+<div class="footer__element">
+	<p>无人处窥见我 <br />面目全非时认出我的灵魂</p>
+</div>
 
 	    
 	      <div class="footer__element">

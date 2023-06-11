@@ -52,7 +52,7 @@
 	
 
 	
-		<span class="different-posts"><a href="/2023/06/07/%E7%8A%AC/" onclick="window.history.go(-1); return false;">⬅️ Go back </a></span>
+		<span class="different-posts"><a href="/uncategorized/%E7%8A%AC" onclick="window.history.go(-1); return false;">⬅️ Go back </a></span>
 
 	
 
@@ -66,9 +66,9 @@
 	      <div class="footer__element">
 	<p><br /></p>
 </div>
-无人处窥见我
-
-面目全非时认出我的灵魂
+<div class="footer__element">
+	<p>无人处窥见我 <br />面目全非时认出我的灵魂</p>
+</div>
 
 	    
 	      <div class="footer__element">
